@@ -9,3 +9,7 @@ Git
 Subversion (SVn)
 Mercurial
 CVS (Concurrent Version System)
+
+Git
+1.	repository/repo,  mengelola perubahan file di dalam folder
+2.	commit, riwayat perubahan file disimpan
