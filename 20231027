@@ -1,0 +1,11 @@
+Version Control System:
+Sebuah sistem yang menyimpan 'rekaman/snapshot' perubahan pada source code
+Memungkinkan bekerja secara kolaborasi dengan lebih baik
+Mengetahui siapa yang melakukan dan kapan sebuah perubahan terjadi
+Memungkinkan untuk kembali ke keadaan sebelum perubahan
+VCS antara lain:
+Git
+  repository/repo: mengelola perubahan file di dalam folder
+Subversion (SVn)
+Mercurial
+CVS (Concurrent Version System)
