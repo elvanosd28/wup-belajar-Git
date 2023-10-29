@@ -4,12 +4,12 @@ Memungkinkan bekerja secara kolaborasi dengan lebih baik
 Mengetahui siapa yang melakukan dan kapan sebuah perubahan terjadi
 Memungkinkan untuk kembali ke keadaan sebelum perubahan
 VCS antara lain:
+
+Git
+1.	repository/repo,  mengelola perubahan file di dalam folder
+2.	commit, riwayat perubahan file disimpan
 Git
   repository/repo: mengelola perubahan file di dalam folder
 Subversion (SVn)
 Mercurial
 CVS (Concurrent Version System)
-
-Git
-1.	repository/repo,  mengelola perubahan file di dalam folder
-2.	commit, riwayat perubahan file disimpan
