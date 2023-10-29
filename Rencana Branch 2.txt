@@ -1,6 +1,8 @@
 Rencana Branch
 
 - Install Linux
+  Pilih Distro
 - Install Docker
+  Identifikasi kebutuhan container
 - Install Docker Run
 - Install GitLab
