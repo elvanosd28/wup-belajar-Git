@@ -1,0 +1,6 @@
+Rencana Branch
+
+- Install Linux
+- Install Docker
+- Install Docker Run
+- Install GitLab
